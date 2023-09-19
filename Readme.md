@@ -7,3 +7,4 @@ MineSweeper/WinMine From Windows XP
 
 
 (For sound Go click on the Game Button and click sound)
+To Compile Use the NT5 Leak!
